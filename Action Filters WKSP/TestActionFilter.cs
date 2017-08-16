@@ -26,7 +26,7 @@ namespace Action_Filters_WKSP
             var message = String.Format("{0}- controller:{1} action:{2}", methodName,
                                                                         controllerName,
                                                                         actionName);
-            Debug.WriteLine(message);
+            //Debug.WriteLine(message);
         }
     }
 }
